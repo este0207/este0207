@@ -14,5 +14,5 @@
 9- Cliquer sur "Finish" <br>
 <img src="./Fichier8.png" alt="8" />
 10- Vous pouvez lancer votre VM <br>
-<img src="./Fichier1.png" alt="1" />
+<img src="./Fichier10.png" alt="10" />
 
