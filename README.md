@@ -9,4 +9,4 @@
 9- Cliquer sur "Finish" <br>
 10- Vous pouvez lancer votre VM
 
-![Texte alternatif](/chemin/access/image.jpg "Titre de l'image").
+![Texte alternatif](/Users/houppermans/Desktop/cap/Fichier1.png).
