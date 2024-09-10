@@ -10,3 +10,5 @@
 10- Vous pouvez lancer votre VM
 
 ![Texte alternatif](/Users/houppermans/Desktop/cap/Fichier1.png).
+<img src="./Fichier1.png" alt="1" />
+
