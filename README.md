@@ -12,7 +12,6 @@
 8- Indiquer la taille de votre disque dur virtuel <br>
 <img src="./Fichier7.png" alt="7" />
 9- Cliquer sur "Finish" <br>
+<img src="./Fichier8.png" alt="8" />
 10- Vous pouvez lancer votre VM
-
-<img src="./Fichier1.png" alt="1" />
 
