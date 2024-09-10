@@ -6,6 +6,7 @@
 5- Installer votre iso la ou il vous le demande <br>
 <img src="./Fichier3.png" alt="3" />
 6- Donner votre username et MDP que vous voulez istaller sur votre MV <br>
+<img src="./Fichier4.png" alt="4" />
 7- Choisisez notre nombre de RAM alouez et le nombre de CPU <br>
 8- Indiquer la taille de votre disque dur virtuel <br>
 9- Cliquer sur "Finish" <br>
