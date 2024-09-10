@@ -1,7 +1,7 @@
 1- Installer VBox <br>
 2- Installer iso de l'os que vous voulez <br>
 3- Ouvrir VBox et aller dans "Nouveaux"<br>
-<img src="./Fichier9.png" alt="9" /> <br>
+<img src="./Fichier10.png" alt="10" /> <br>
 4- Donnez un nom a votre machine <br>
 5- Installer votre iso la ou il vous le demande <br>
 <img src="./Fichier3.png" alt="3" />
