@@ -10,6 +10,7 @@
 7- Choisisez notre nombre de RAM alouez et le nombre de CPU <br>
 <img src="./Fichier6.png" alt="6" />
 8- Indiquer la taille de votre disque dur virtuel <br>
+<img src="./Fichier7.png" alt="7" />
 9- Cliquer sur "Finish" <br>
 10- Vous pouvez lancer votre VM
 
