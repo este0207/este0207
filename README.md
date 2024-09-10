@@ -8,6 +8,7 @@
 6- Donner votre username et MDP que vous voulez istaller sur votre MV <br>
 <img src="./Fichier5.png" alt="5" />
 7- Choisisez notre nombre de RAM alouez et le nombre de CPU <br>
+<img src="./Fichier6.png" alt="6" />
 8- Indiquer la taille de votre disque dur virtuel <br>
 9- Cliquer sur "Finish" <br>
 10- Vous pouvez lancer votre VM
