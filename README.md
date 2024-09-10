@@ -8,3 +8,5 @@
 8- Indiquer la taille de votre disque dur virtuel<br>
 9- Cliquer sur "Finish" <br>
 10- Vous pouvez lancer votre VM
+
+![alt text](http://url/to/img.png)
