@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=este0207" alt="este0207" /></a> </p>
 
-- 🔭 I’m currently working on [Post'hit](https://github.com/este0207/Post-hit)
+- 🔭 I’m currently working on [Philips e-Shop](https://github.com/este0207/Philips_project)
 
 - 🌱 I’m currently learning **Next, React and Postgresql**
 
