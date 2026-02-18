@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=este0207" alt="este0207" /></a> </p>
 
-- 🔭 I’m currently working on [Philips e-Shop](https://github.com/este0207/Philips_project)
+- 🔭 I’m currently working on [Cours-Dev-Junior](https://github.com/este0207/Cours-Dev-Junior)
 
-- 🌱 I’m currently learning **Next, React and Postgresql**
+- 🌱 I’m currently learning **React and Postgresql**
 
 - 👯 I’m looking to collaborate on [Moods](https://github.com/este0207/Moods)
 
